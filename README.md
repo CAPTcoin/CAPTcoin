@@ -1,0 +1,4 @@
+CAPTcoin
+========
+
+CAPTcoin wallet
